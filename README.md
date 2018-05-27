@@ -1,4 +1,4 @@
-# JPA 2.1 Features
+# JPA 2.1 Features [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 Just a small repository to test JPA 2 and JPA 2.1 features.
 ## Converters
 JPA converters help to persist complex data types not covered by JPA itself. It's a similar mechanism to f.e. hibernate's types.
